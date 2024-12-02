@@ -1,4 +1,4 @@
-ame: Build and Push Container
+name: Build and Push Container
 on:
   push:
     branches:
